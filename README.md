@@ -124,3 +124,7 @@ submission_file = "/path/to/project/submission/submission.csv"
 ```
 
 Now, after running the script, the predictions of the newly trained model will be recorded under directory *submission*, and the submission file *submission.csv* will also be put here.
+
+
+_README.md by Sabri Yiğit Arslan_
+ 
