@@ -1,6 +1,6 @@
 # CS-433 Machine Learning Project 2: Road Segmentation
 
-## Efe Tarhan, Sabri Yigit Arslan, Eren Akcanal
+## Efe Tarhan
 
 To reproduce the results presented in both the report and the notebooks in the repository, one can simply follow the instructions listed here onward.
 
